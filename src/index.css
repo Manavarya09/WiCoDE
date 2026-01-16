@@ -1950,8 +1950,8 @@
   --secondary-foreground: #fafafa;
   --muted: #2a2450;
   --muted-foreground: #a3a3a3;
-  --accent: gold;
-  --accent-secondary: #e879f9;
+  --accent: #e879f9;
+  --accent-secondary: gold;
   --accent-tertiary: #22d3ee;
   --accent-foreground: #1a1434;
   --destructive: #d4183d;
