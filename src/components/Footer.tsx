@@ -12,7 +12,7 @@ export function Footer() {
         <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-12 mb-12">
           {/* About */}
           <div>
-            <h3 className="text-lg mb-4 text-white" style={{ fontWeight: 600 }}>WiCoDE25</h3>
+            <h3 className="text-lg mb-4 text-white" style={{ fontWeight: 600 }}>WiCoDE26</h3>
             <p className="text-sm text-muted-foreground leading-relaxed">
               ACM Celebration of Women in Computing – Dubai Edition 2026
             </p>

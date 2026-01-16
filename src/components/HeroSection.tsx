@@ -84,7 +84,7 @@ export function HeroSection() {
 
           <div className="my-12">
             <h2 className="text-4xl md:text-6xl lg:text-7xl tracking-tight" style={{ fontWeight: 600 }}>
-              <span className="bg-gradient-to-r from-[#E879F9] via-[#D8B4FE] to-white bg-clip-text text-transparent">WiCoDE25</span>
+              <span className="bg-gradient-to-r from-[#E879F9] via-[#D8B4FE] to-white bg-clip-text text-transparent">WiCoDE26</span>
             </h2>
           </div>
 

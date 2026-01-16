@@ -44,7 +44,7 @@ export function Navigation() {
                 <span className="text-accent-foreground text-sm" style={{ fontWeight: 700 }}>W</span>
               </div>
               <span className="text-lg tracking-tight text-white" style={{ fontWeight: 600 }}>
-                WiCoDE<span className="text-accent">25</span>
+                WiCoDE<span className="text-accent">26</span>
               </span>
             </a>
 
