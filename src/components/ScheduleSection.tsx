@@ -9,11 +9,12 @@ const schedule = [
     color: 'from-accent/20 to-accent/5',
     borderColor: 'border-accent/30',
     sessions: [
-      { time: '09:00 AM', title: 'Registration', description: 'Check-in and welcome refreshments' },
+      { time: '09:30 AM', title: 'Registration', description: 'Check-in and welcome refreshments' },
       { time: '10:00 AM', title: 'Inaugural Ceremony', description: 'Opening keynote and event introduction' },
-      { time: '11:30 AM', title: 'Technical Talk', description: 'Expert insights on emerging technologies' },
-      { time: '01:00 PM', title: 'Ideathon', description: 'Collaborative innovation and brainstorming session' },
-      { time: '03:00 PM', title: 'Pitches & Presentations', description: 'Team presentations and feedback sessions' }
+      { time: '10:30 AM', title: 'Technical Talk', description: 'Expert insights on emerging technologies' },
+      { time: '11:00 PM', title: 'Ideathon', description: 'Collaborative innovation and brainstorming session' },
+      { time: '02:00 PM', title: 'Pitches & Presentations', description: 'Team presentations and feedback sessions' },
+      { time: '03:30 PM', title: 'Closing Remarks'}
     ]
   },
   {
@@ -22,11 +23,11 @@ const schedule = [
     color: 'from-[#E879F9]/20 to-[#E879F9]/5',
     borderColor: 'border-[#E879F9]/30',
     sessions: [
-      { time: '10:00 AM', title: 'Technical Talk', description: 'Advanced computing topics and research' },
-      { time: '11:30 AM', title: 'Student Tech Showcase', description: 'Student-led technology demonstrations' },
-      { time: '01:00 PM', title: 'Creative Poster Presentation', description: 'Visual research and project displays' },
-      { time: '02:30 PM', title: 'ACM-W Panel Discussion', description: 'Women in tech leadership panel' },
-      { time: '04:00 PM', title: 'Recognition & Honours Ceremony', description: 'Awards and closing remarks' }
+      { time: '9:30 AM', title: 'Technical Talk', description: 'Advanced computing topics and research' },
+      { time: '10:00 AM', title: 'Student Tech Showcase', description: 'Student-led technology demonstrations' },
+      { time: '11:00 PM', title: 'Creative Poster Presentation', description: 'Visual research and project displays' },
+      { time: '02:00 PM', title: 'ACM-W Panel Discussion', description: 'Women in tech leadership panel' },
+      { time: '03:00 PM', title: 'Recognition & Honours Ceremony', description: 'Awards and vote of thanks' }
     ]
   }
 ];
